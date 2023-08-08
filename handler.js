@@ -459,8 +459,8 @@ Untuk mematikan fitur ini, ketik
 
 global.dfail = (type, m, conn) => {
     let msg = {
-        rowner: 'This command can only be used by _*OWWNER!!*_',
-        owner: 'This command can only be used by _*Owner Bot*_!',
+        rowner: 'This command can only be used by _*MR JUICE!!*_',
+        owner: 'This command can only be used by _*Mr Juice*_!',
         mods: 'This command can only be used by _*Moderator*_ !',
         premium: 'This command is only for member _*Premium*_ !',
         group: 'This command can only be used in groups!',
